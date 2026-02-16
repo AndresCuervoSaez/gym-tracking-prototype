@@ -1,0 +1,12 @@
+video_fps_override:
+occupy_start_s: 5
+occupy_end_s: 3
+cleaning_window_s: 45
+clip_pre_s: 4
+clip_post_s: 4
+rois:
+  - zone_id: "machine_bench_01"
+    x1: 100
+    y1: 120
+    x2: 380
+    y2: 420

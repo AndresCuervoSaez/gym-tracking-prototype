@@ -1,0 +1,7 @@
+gym-mvp-local/data/
+*.db
+*.mp4
+*.jsonl
+__pycache__/
+.venv/
+*.pyc
